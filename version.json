@@ -1,0 +1,5 @@
+{
+    "version": "1.5",
+    "changelog": "- 2단 레이아웃 자동 감지 지원\n- LaTeX 수식 파서 전면 재설계\n- midx, xtext 렌더링 버그 수정\n- 선지 공백 개선\n- 코드 전반 최적화",
+    "download_url": "https://github.com/username/integra-exambot/releases/download/v1.5/Integra.exe"
+}
